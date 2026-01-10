@@ -1,0 +1,19 @@
+.hidden{
+    display: none;
+}
+ 
+h1{
+    color:rgb(28, 28, 255);
+    font-weight: bold;
+}
+.uploadButton{
+    display:inline-block;
+    padding:10px 20px;
+    background-color: green;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+
